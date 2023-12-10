@@ -1,7 +1,10 @@
 [package]
 name = "tcp-scan"
-version = "0.1.0"
+version = "0.0.0"
 edition = "2021"
+description = "A TCP Scanner."
+repository = "https://github.com/hzqd/tcp-scan"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
