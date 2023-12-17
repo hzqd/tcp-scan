@@ -1,6 +1,6 @@
 [package]
 name = "tcp-scan"
-version = "0.0.0"
+version = "0.0.1"
 edition = "2021"
 description = "A TCP Scanner."
 repository = "https://github.com/hzqd/tcp-scan"
